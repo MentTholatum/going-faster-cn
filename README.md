@@ -16,13 +16,13 @@ python3 -m http.server 8767 --bind 127.0.0.1
 
 ## 网站发布
 
-项目仓库：<https://github.com/MentTholatum/going-faster-cn>（私有）。
+项目仓库：<https://github.com/MentTholatum/going-faster-cn>（公开）。
 
-GitHub Pages 配置地址：<https://menttholatum.github.io/going-faster-cn/>。网站访问权限独立于仓库；启用后，阅读页面、正文和图片对公众可见。个人账号从私有仓库发布 Pages 需要 GitHub Pro 或其他支持的套餐。
+在线阅读：<https://menttholatum.github.io/going-faster-cn/>。阅读页面、正文和图片对公众可见。
 
-启用后，`.github/workflows/pages.yml` 在推送 `main` 或手动运行时构建、校验并部署网站。只有 `index.html`、阅读图片和字体目录进入网站发布包；源码数据、制作记录和单文件离线版不进入网站。
+`.github/workflows/pages.yml` 在推送 `main` 或手动运行时构建、校验并部署网站。只有 `index.html`、阅读图片和字体目录进入网站发布包；源码数据、制作记录和单文件离线版不进入网站。
 
-首次部署需在仓库的 **Settings → Pages** 中启用 **GitHub Actions**，再在 **Settings → Secrets and variables → Actions → Variables** 中设置仓库变量 `ENABLE_GITHUB_PAGES=true`，最后手动运行该工作流。未设置这个变量时部署任务会跳过。实际发布状态以仓库 **Actions** 和 **Pages** 页面为准。
+部署配置使用 **Settings → Pages → GitHub Actions**，仓库变量 `ENABLE_GITHUB_PAGES=true` 控制是否部署。删除该变量或将其设为 `false` 可暂停后续部署。实际发布状态以仓库 **Actions** 和 **Pages** 页面为准。
 
 ## 构建与校验
 
@@ -58,4 +58,4 @@ scripts/                   阅读器模板、样式、交互和构建脚本
 
 《Going Faster!》的书中文字与图像版权归各自权利人所有；本项目不对这些内容授予开源许可。MiSans 按 `assets/reader-fonts/` 中保留的字体许可使用。
 
-阅读器代码的开源许可证尚未指定。公开发布前，应确定代码许可证及书本内容、图片的公开分发授权；字体许可不等同于书本内容的分发许可。
+阅读器代码尚未指定开源许可证；仓库公开可见不构成对书本内容、图片的额外许可。字体许可不等同于书本内容的分发许可。
