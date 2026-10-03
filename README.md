@@ -4,19 +4,8 @@
 
 支持章节导航、全文搜索、字号调整、图片放大和阅读演示。正文采用 MiSans，默认字号 20px；图注随字号缩放。无需安装前端依赖或连接在线服务。
 
-## 阅读
-
-直接用浏览器打开 `index.html`，并保持 `assets/` 目录的相对位置。也可以在项目目录启动本地服务：
-
-```sh
-python3 -m http.server 8767 --bind 127.0.0.1
-```
-
-浏览器访问 `http://127.0.0.1:8767/`。
 
 ## 网站发布
-
-项目仓库：<https://github.com/MentTholatum/going-faster-cn>（公开）。
 
 在线阅读：<https://menttholatum.github.io/going-faster-cn/>。阅读页面、正文和图片对公众可见。
 
