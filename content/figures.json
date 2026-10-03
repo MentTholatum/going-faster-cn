@@ -1,0 +1,1580 @@
+{
+  "p013-photo-1": {
+    "path": "assets/figures/fig-p013-photo-1.png",
+    "width": 1667,
+    "height": 943,
+    "sha256": "e299a52cb067eb94be1bfd697da37d8df3ff15728740ebed1e7d18a53a150abe"
+  },
+  "p014-photo-1": {
+    "path": "assets/figures/fig-p014-photo-1.png",
+    "width": 1400,
+    "height": 1123,
+    "sha256": "5beeb14b90a741a99a53e21ef353200bafc6f02ef17a659df9fb503376394a50"
+  },
+  "p014-photo-2": {
+    "path": "assets/figures/fig-p014-photo-2.png",
+    "width": 1502,
+    "height": 1047,
+    "sha256": "395de702f405a2494b4569a5bd474ec4204f7f7bab74a071821b88cd1711fe64"
+  },
+  "p015-photo-1": {
+    "path": "assets/figures/fig-p015-photo-1.png",
+    "width": 1181,
+    "height": 1332,
+    "sha256": "a2530e77f6c0a30eaceb9410ed37465ecba173a00dee27993180a5ee37844c01"
+  },
+  "p016-photo-1": {
+    "path": "assets/figures/fig-p016-photo-1.png",
+    "width": 1706,
+    "height": 922,
+    "sha256": "7d4d4a048aeb21bda719ba63ed9f3fd1089442b7f473a0d99235f335e58d53d6"
+  },
+  "p016-photo-2": {
+    "path": "assets/figures/fig-p016-photo-2.png",
+    "width": 1061,
+    "height": 1482,
+    "sha256": "3fe3e005f62d26f90d521a3f96892821d4831e9c753db5700110c51c7e09deb3"
+  },
+  "p017-photo-1": {
+    "path": "assets/figures/fig-p017-photo-1.png",
+    "width": 1099,
+    "height": 1431,
+    "sha256": "00c41296deca4d4bdb201e66991b734ef40653bab21d5e132dab8098e9b30ac6"
+  },
+  "p017-photo-2": {
+    "path": "assets/figures/fig-p017-photo-2.png",
+    "width": 1076,
+    "height": 1462,
+    "sha256": "67f840b4d84d1c2b4195afea982f0229df9e487df90a8e22867bcd42c40a9edb"
+  },
+  "p017-photo-3": {
+    "path": "assets/figures/fig-p017-photo-3.jpg",
+    "width": 315,
+    "height": 415,
+    "sha256": "0477bb6f15cdb9ca8fa5dc3bfc5c1eed20f7322aee7620c06376f127351e0ece"
+  },
+  "p017-photo-4": {
+    "path": "assets/figures/fig-p017-photo-4.png",
+    "width": 1090,
+    "height": 1443,
+    "sha256": "51ee418e5c09845cd9a863d8ea9e81f6b69de4c461e9b1e1e54b0fd2a6afc781"
+  },
+  "p017-photo-5": {
+    "path": "assets/figures/fig-p017-photo-5.png",
+    "width": 1071,
+    "height": 1469,
+    "sha256": "4022b025f161d2523bb5bd078a5264f8e76ee7fc9bd7a00b1d6ea7ede66a684a"
+  },
+  "p018-photo-1": {
+    "path": "assets/figures/fig-p018-photo-1.png",
+    "width": 1057,
+    "height": 1488,
+    "sha256": "8002e90693bb641c34e3ac1ec7782b31643512058c4e4a226d83519f619a93d8"
+  },
+  "p018-photo-2": {
+    "path": "assets/figures/fig-p018-photo-2.png",
+    "width": 1063,
+    "height": 1479,
+    "sha256": "4e987f0c2bb4dda465ae3470e5a9f67513d62a39586429999f91d753c5b633bf"
+  },
+  "p018-photo-3": {
+    "path": "assets/figures/fig-p018-photo-3.png",
+    "width": 1053,
+    "height": 1494,
+    "sha256": "6512e9abe6da3fa6ecd813277a920af3192d252d756765735f76a661cba05e5f"
+  },
+  "p018-photo-4": {
+    "path": "assets/figures/fig-p018-photo-4.png",
+    "width": 1066,
+    "height": 1475,
+    "sha256": "42ecbcb2fc6bff2b0b89db0ff74f9e2774a3496418fc6894fd4f7b73776b2da7"
+  },
+  "1-1": {
+    "path": "assets/figures/fig-1-1.png",
+    "width": 1063,
+    "height": 1480,
+    "sha256": "fe6eef35c6af51978de0b446ee1d76ab56e8bd6305cfd46c37ecdd12d66dd0c5"
+  },
+  "1-2": {
+    "path": "assets/figures/fig-1-2.png",
+    "width": 1339,
+    "height": 2043,
+    "sha256": "0893c2ce33f59f0a40ab6d3c84c390bfbf27a187b0ced08c7cc9d3ce9a4ffa9a"
+  },
+  "1-3": {
+    "path": "assets/figures/fig-1-3.png",
+    "width": 688,
+    "height": 1709,
+    "sha256": "a5568f0e25739e899001312b09832fcb4c55df4a6fec18b7b1e568d0cf8f9258"
+  },
+  "1-4": {
+    "path": "assets/figures/fig-1-4.png",
+    "width": 1456,
+    "height": 568,
+    "sha256": "d072e0a5b82603e9d292d150cb094b6a0f5219747865568d281bd9e7c07567d7"
+  },
+  "1-5": {
+    "path": "assets/figures/fig-1-5.png",
+    "width": 682,
+    "height": 1270,
+    "sha256": "57c9592d0f2e6bce711ee51a16481be0206bc192abc335b3e89b80f4c80ac527"
+  },
+  "1-6": {
+    "path": "assets/figures/fig-1-6.png",
+    "width": 603,
+    "height": 567,
+    "sha256": "2a241351730a40b1f855c56e3789ff1bc40626be98ff187f6543a9a3756d19ae"
+  },
+  "1-7": {
+    "path": "assets/figures/fig-1-7.png",
+    "width": 1339,
+    "height": 2043,
+    "sha256": "f63a0447b865490e23ae988b4438cc62e9cf88c64a6673ae4aa8692a13bb7528"
+  },
+  "1-8": {
+    "path": "assets/figures/fig-1-8.png",
+    "width": 669,
+    "height": 920,
+    "sha256": "c9d67c6ef760ebb52867472af2e5c7d566a74929100e80ffc09d141313207c07"
+  },
+  "1-9": {
+    "path": "assets/figures/fig-1-9.png",
+    "width": 679,
+    "height": 952,
+    "sha256": "b1476dda536a5279c429c910cefd124c794b56aeafa37de1c98d623b0fd35354"
+  },
+  "1-10": {
+    "path": "assets/figures/fig-1-10.png",
+    "width": 679,
+    "height": 1001,
+    "sha256": "6753f4fc20b24c27741068eaa97c9f7e52f0fffe4800c0f9825584f4deef5e42"
+  },
+  "1-11": {
+    "path": "assets/figures/fig-1-11.png",
+    "width": 660,
+    "height": 895,
+    "sha256": "cc7a7a6b2797da2ebfcb4bda8492ab705d4885e8a824b6c94925057e72825583"
+  },
+  "1-12": {
+    "path": "assets/figures/fig-1-12.png",
+    "width": 643,
+    "height": 900,
+    "sha256": "94be9686fcc75d698584536a3776b5fb278b9c9106ea0b1a784a2500ccec7b77"
+  },
+  "1-13": {
+    "path": "assets/figures/fig-1-13.png",
+    "width": 1339,
+    "height": 2043,
+    "sha256": "30aa7b090d85b5c6b2f18cced8b4f69a1a5dd04f83d65909d155d22eb325a082"
+  },
+  "1-14": {
+    "path": "assets/figures/fig-1-14.png",
+    "width": 2057,
+    "height": 764,
+    "sha256": "96970e443ca5a80a53af531f192d3af73a4c0169300b3d07a2f5ac34b313efa5"
+  },
+  "1-15": {
+    "path": "assets/figures/fig-1-15.png",
+    "width": 1724,
+    "height": 912,
+    "sha256": "f7cecf82df49c32a8c935031b077ce8d5760eb07508ee54b685b6f5149c85ca9"
+  },
+  "1-16": {
+    "path": "assets/figures/fig-1-16.png",
+    "width": 1352,
+    "height": 817,
+    "sha256": "e3ef3afd85460ffb213727f6af096beadc09498f44ec2c7c3b29730f6f577e7b"
+  },
+  "1-17": {
+    "path": "assets/figures/fig-1-17.png",
+    "width": 1447,
+    "height": 1087,
+    "sha256": "e2f1fea09151ec25a3bcbc040ce5872aa6c7749e15c211a26974beb3bb2119de"
+  },
+  "1-18": {
+    "path": "assets/figures/fig-1-18.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "0ef36cd76e47896e256ff7c7b746a39aedc99f94fd175f12f6d57d06900f22cb"
+  },
+  "1-19": {
+    "path": "assets/figures/fig-1-19.png",
+    "width": 1460,
+    "height": 1077,
+    "sha256": "c311ac1351cbe9ccb2a47d3090c1dedb9452edeac04bb1528d75066bdec419e7"
+  },
+  "1-20": {
+    "path": "assets/figures/fig-1-20.png",
+    "width": 1446,
+    "height": 1087,
+    "sha256": "2e8fa7faf762436680ab5a02949a49d3d539999f381f20c0b3567c45c8c64c90"
+  },
+  "1-21": {
+    "path": "assets/figures/fig-1-21.png",
+    "width": 1460,
+    "height": 1078,
+    "sha256": "0421454ab73f420309d955fed4c36cd9f3cd6e15232018f531aab7903b38ac87"
+  },
+  "1-22": {
+    "path": "assets/figures/fig-1-22.png",
+    "width": 1447,
+    "height": 1087,
+    "sha256": "84b3989c18187896e392d2841164f947190985448545d1b2d69c816be2cf844a"
+  },
+  "1-23": {
+    "path": "assets/figures/fig-1-23.png",
+    "width": 1446,
+    "height": 1087,
+    "sha256": "f110cb9ac9e16a892385e283d2442c87d81332385cfae6f55e0631317bde1401"
+  },
+  "1-24": {
+    "path": "assets/figures/fig-1-24.png",
+    "width": 1444,
+    "height": 1089,
+    "sha256": "78c742bd49d2cbb9aefdbc1f2d4cab7530b95d4d0c412c6122c925265ad7c1cc"
+  },
+  "1-25": {
+    "path": "assets/figures/fig-1-25.png",
+    "width": 1446,
+    "height": 1087,
+    "sha256": "bda506694aafe7e65e23910348ac1910520e1d8c38fb57d6349c56c1d2498541"
+  },
+  "2-1": {
+    "path": "assets/figures/fig-2-1.png",
+    "width": 1017,
+    "height": 1074,
+    "sha256": "5f14349752856e041983390c912a5978f5ad74d547a6c46253c842227d52a257"
+  },
+  "2-2": {
+    "path": "assets/figures/fig-2-2.png",
+    "width": 990,
+    "height": 1077,
+    "sha256": "f0d142897c0c21c838d13b46b6a3339a7fe190806ea124670d3200e669dd198c"
+  },
+  "2-3": {
+    "path": "assets/figures/fig-2-3.png",
+    "width": 1116,
+    "height": 1057,
+    "sha256": "5e2c8290f58be9d97ce6673ee03daab0bdb875cebb30f18512c5bf6ba7f48420"
+  },
+  "2-4": {
+    "path": "assets/figures/fig-2-4.png",
+    "width": 1289,
+    "height": 1280,
+    "sha256": "ce1c0363ba914887bde80850d7981bbbf86f4863821011bba3ad15122e618ad0"
+  },
+  "2-5": {
+    "path": "assets/figures/fig-2-5.png",
+    "width": 1188,
+    "height": 1062,
+    "sha256": "152bced5b7d98430e9fbb41d7bd457f3447b109c9925534c8fa40e8188f3143a"
+  },
+  "2-6": {
+    "path": "assets/figures/fig-2-6.png",
+    "width": 1149,
+    "height": 1069,
+    "sha256": "73f15fb2497b9a30b1b2c2d6d22953bbd9a33e1a7b7a9f2f0ec71381f1c7d05b"
+  },
+  "2-7": {
+    "path": "assets/figures/fig-2-7.png",
+    "width": 1167,
+    "height": 1348,
+    "sha256": "17b99c2a867e560b4a852280643b2cdbb06fe02b88cca3004b79660c121c5a06"
+  },
+  "2-8": {
+    "path": "assets/figures/fig-2-8.png",
+    "width": 1184,
+    "height": 1328,
+    "sha256": "65126a8d3a7cc6cba7133c777029d5b2b6c49e97f633c8d00df129b477b80b93"
+  },
+  "2-9": {
+    "path": "assets/figures/fig-2-9.png",
+    "width": 515,
+    "height": 812,
+    "sha256": "f6a3588f3f71e9691b2309e60624bcec8e90ba50a34e42b52e9858387c5749bd"
+  },
+  "2-10": {
+    "path": "assets/figures/fig-2-10.png",
+    "width": 526,
+    "height": 1080,
+    "sha256": "e5836e9fc4299f6899faf1ef74b400d142e4ddc86dfeaf8812f2acb979c8c51e"
+  },
+  "2-11": {
+    "path": "assets/figures/fig-2-11.png",
+    "width": 544,
+    "height": 840,
+    "sha256": "701d0be9adb55a1830a6c1b21bc39c5fdf99118b481d0ab7fa45163d5c5e5119"
+  },
+  "2-12": {
+    "path": "assets/figures/fig-2-12.png",
+    "width": 526,
+    "height": 911,
+    "sha256": "dd90dd7691c7de11da5b0a8f458534c30d84097c5ae04a84fb332ef1258a82f5"
+  },
+  "2-13": {
+    "path": "assets/figures/fig-2-13.png",
+    "width": 1303,
+    "height": 1170,
+    "sha256": "e5209edb1c27dea3674126de39089b370a7917f1c5bddd3e9a6077a16ef02fbe"
+  },
+  "2-14": {
+    "path": "assets/figures/fig-2-14.png",
+    "width": 1163,
+    "height": 1353,
+    "sha256": "1787d4bd5447501ea41c9308b6f14829bb244fe77e05b2d38d7d5c99202ff125"
+  },
+  "3-1": {
+    "path": "assets/figures/fig-3-1.png",
+    "width": 1284,
+    "height": 1265,
+    "sha256": "0147e5596ecd737d7e36215f1aab87de98ad0370ca073a957123a2b5557da1df"
+  },
+  "3-2": {
+    "path": "assets/figures/fig-3-2.png",
+    "width": 1278,
+    "height": 679,
+    "sha256": "e3370e930ffe2bcc9a05f7c3abfe7b2ba884d6b0fd85b7e8816ab3af8d945770"
+  },
+  "3-3": {
+    "path": "assets/figures/fig-3-3.png",
+    "width": 668,
+    "height": 602,
+    "sha256": "0772c67a0f498657a859f37decf68a1408e656ba23bb8962f7edbeb6b5a75e85"
+  },
+  "3-4": {
+    "path": "assets/figures/fig-3-4.png",
+    "width": 680,
+    "height": 665,
+    "sha256": "1c38c180494dad609b73b0747a563f2485a4abeeb41877360c5b473bc359dbbf"
+  },
+  "3-5": {
+    "path": "assets/figures/fig-3-5.png",
+    "width": 696,
+    "height": 652,
+    "sha256": "4a0c89641502eb689e6203a27545762fff00ab823d1e3deb1ebb85b24ea2c088"
+  },
+  "3-6": {
+    "path": "assets/figures/fig-3-6.png",
+    "width": 1364,
+    "height": 752,
+    "sha256": "25871696caa94ad0ce9f93d3fafb3b6e58834b08448c1fb10000804a812b903a"
+  },
+  "3-7": {
+    "path": "assets/figures/fig-3-7.png",
+    "width": 1328,
+    "height": 895,
+    "sha256": "1e3ea295afc0a372e83f854d1a345b986b8a21a655d63b97dd4d175328e3a8f5"
+  },
+  "3-8": {
+    "path": "assets/figures/fig-3-8.png",
+    "width": 1330,
+    "height": 829,
+    "sha256": "1c6cabe06187cec359833cc8230a77d56f142e28fec617db18b9fc940069c3bd"
+  },
+  "3-9": {
+    "path": "assets/figures/fig-3-9.png",
+    "width": 1476,
+    "height": 854,
+    "sha256": "f5c608319521039faab4e41192b3fea89f2cf54abe0f0c32baa8bc1f5d81b1e4"
+  },
+  "3-10": {
+    "path": "assets/figures/fig-3-10.png",
+    "width": 1098,
+    "height": 1002,
+    "sha256": "67795443622cd42b1381d1f410dc7c9ab1351d43f74a2b7d66fad79b9bd0ef8e"
+  },
+  "3-11": {
+    "path": "assets/figures/fig-3-11.png",
+    "width": 1269,
+    "height": 1465,
+    "sha256": "32408278068b01c8f9f2738616b6e28c08785bd921661f6036fd8794204ee7b0"
+  },
+  "3-12": {
+    "path": "assets/figures/fig-3-12.png",
+    "width": 1471,
+    "height": 1260,
+    "sha256": "61722202905a3c13a74aab77151404f6d9ce1bee511ac52feeef3adacc6d470d"
+  },
+  "3-13": {
+    "path": "assets/figures/fig-3-13.png",
+    "width": 1471,
+    "height": 595,
+    "sha256": "343793fea999844692e4ad5d61ba7d6520ff8a3f76b09e715eb92e1d1d5e1b90"
+  },
+  "3-14": {
+    "path": "assets/figures/fig-3-14.png",
+    "width": 1481,
+    "height": 646,
+    "sha256": "1712040a30fe890c3324b990b3536cde40422b5e26183fa0773300451482a61f"
+  },
+  "3-15": {
+    "path": "assets/figures/fig-3-15.png",
+    "width": 1465,
+    "height": 672,
+    "sha256": "8e5218520189a9c72b3e3f8062b512cb35cab2aff918bd511efd709a02454633"
+  },
+  "3-16": {
+    "path": "assets/figures/fig-3-16.png",
+    "width": 1418,
+    "height": 297,
+    "sha256": "6875e5428b5d535328c51d73ea2b28b5ad3d35ed2fc95621e3bd92228a600435"
+  },
+  "3-17": {
+    "path": "assets/figures/fig-3-17.png",
+    "width": 1802,
+    "height": 873,
+    "sha256": "a7c28860dd29d2a32221b80eeebfe9eb139a57b64f820bf31715481ade01111d"
+  },
+  "3-18": {
+    "path": "assets/figures/fig-3-18.png",
+    "width": 1338,
+    "height": 1191,
+    "sha256": "ac3efb181b8930a98896ac04398516b530e139c45fcdb2f053ce6ac56aea8e36"
+  },
+  "3-19": {
+    "path": "assets/figures/fig-3-19.png",
+    "width": 1291,
+    "height": 1089,
+    "sha256": "86f5ae6a269e55259fd0e0e7239a928fb14875be3d05854e90dbb1a280c500e8"
+  },
+  "3-20": {
+    "path": "assets/figures/fig-3-20.png",
+    "width": 1433,
+    "height": 1125,
+    "sha256": "528d8b1b290acb5a652821be237527bdfb17d3188ed5a724cee2d6632cd7aa64"
+  },
+  "3-21": {
+    "path": "assets/figures/fig-3-21.png",
+    "width": 1306,
+    "height": 1095,
+    "sha256": "715495ee9425debf7c4703cc7d348cccc560868f8e8cd5121e239f5abb3ac1dd"
+  },
+  "3-22": {
+    "path": "assets/figures/fig-3-22.png",
+    "width": 1305,
+    "height": 1123,
+    "sha256": "058566e94b4c212ceb486419ac0713c3093dc276d36830a022ab277fc608fa2f"
+  },
+  "4-1": {
+    "path": "assets/figures/fig-4-1.png",
+    "width": 378,
+    "height": 1242,
+    "sha256": "f8e3259171d89f4303c368550ad481965426f956888e61d6ddeaab2db977c7e8"
+  },
+  "4-2": {
+    "path": "assets/figures/fig-4-2.png",
+    "width": 557,
+    "height": 1325,
+    "sha256": "620c883fe60e3f8122ff3ebcb06c01a799a152449f8be8e18f1005c94b8a49ca"
+  },
+  "4-3": {
+    "path": "assets/figures/fig-4-3.png",
+    "width": 1314,
+    "height": 1309,
+    "sha256": "ed1c55a3baca0999ffefb91e7c5bf4905ca2688a7f77daaf0176d6e341ff5cbe"
+  },
+  "4-4": {
+    "path": "assets/figures/fig-4-4.png",
+    "width": 618,
+    "height": 1417,
+    "sha256": "b5bfac1dba1e8464ef1bb1473251a2b1c13b3dcf69991a6b93b45f976a66664c"
+  },
+  "4-5": {
+    "path": "assets/figures/fig-4-5.png",
+    "width": 596,
+    "height": 1423,
+    "sha256": "40226498339f5a7aed3b0771e54390611a67704bbeb8fa0d28ca4140765f9764"
+  },
+  "4-6": {
+    "path": "assets/figures/fig-4-6.png",
+    "width": 1446,
+    "height": 1087,
+    "sha256": "6862ce86899ec1d4d4e530057e713ee8c4e17027394e2ad3957eb2204f695b44"
+  },
+  "4-7": {
+    "path": "assets/figures/fig-4-7.png",
+    "width": 1426,
+    "height": 1103,
+    "sha256": "f5f8e32d15e7a38d79f67ded7ff50ca3ba9b7cd6ea7f889c343cf23304c6ac81"
+  },
+  "4-8": {
+    "path": "assets/figures/fig-4-8.png",
+    "width": 1886,
+    "height": 834,
+    "sha256": "592f72f2fa19431bb77c7ae61ca253c167732ed7b4187f776999ca55f8279310"
+  },
+  "4-9": {
+    "path": "assets/figures/fig-4-9.png",
+    "width": 1411,
+    "height": 1546,
+    "sha256": "201aff6f5ef6cf925de123692c69da7e5e3d35be07f6e98e37993c4d05cd20ee"
+  },
+  "4-10": {
+    "path": "assets/figures/fig-4-10.png",
+    "width": 1077,
+    "height": 1081,
+    "sha256": "348269b59b2fdd6816ecf7aa1e036b5dfcaed21dd192c2623c5f981825c7ed19"
+  },
+  "5-1": {
+    "path": "assets/figures/fig-5-1.png",
+    "width": 1514,
+    "height": 1039,
+    "sha256": "feee9fca8cf4f37601a73d61ebe41787aaa83053632bad2f8e11644a96bd9af7"
+  },
+  "5-2": {
+    "path": "assets/figures/fig-5-2.png",
+    "width": 1383,
+    "height": 664,
+    "sha256": "16b17bc618ebe7404ee6e6f9f9654a943e3578dc9eac444a924568c5e960373b"
+  },
+  "5-3": {
+    "path": "assets/figures/fig-5-3.png",
+    "width": 1468,
+    "height": 1299,
+    "sha256": "1879020ec230f538b9122f03e2bae85892ca691b7de68786c45548df798ac80f"
+  },
+  "5-4": {
+    "path": "assets/figures/fig-5-4.png",
+    "width": 684,
+    "height": 662,
+    "sha256": "87856532bb170a5bff08ddbad50273953fa26b395b9afe03e96b2cd802efe16f"
+  },
+  "5-5": {
+    "path": "assets/figures/fig-5-5.png",
+    "width": 656,
+    "height": 717,
+    "sha256": "4bd4d70ae020871c2f87d88db7399a5f56d4bea8d87778af66d7dfe257e8ee57"
+  },
+  "5-6": {
+    "path": "assets/figures/fig-5-6.png",
+    "width": 646,
+    "height": 727,
+    "sha256": "4383a3ecb6d5abd771c7803cbf4c1fe335d9a8c3e3a99fb9adb44ab846dad070"
+  },
+  "5-7": {
+    "path": "assets/figures/fig-5-7.png",
+    "width": 657,
+    "height": 718,
+    "sha256": "3473a8f59c86a05918d0892129e3256a54075d87ae9eec21825c88df4a58553d"
+  },
+  "5-8": {
+    "path": "assets/figures/fig-5-8.png",
+    "width": 666,
+    "height": 778,
+    "sha256": "0af6ebcf32dd0afe3108000c79d93aea8bb46bda4e4f6f14bf444de04fcb5303"
+  },
+  "5-9": {
+    "path": "assets/figures/fig-5-9.png",
+    "width": 687,
+    "height": 1728,
+    "sha256": "aab126cb3a3d3ba4c0e712846816e451a2ed9be72ec65d5c5f928108b4906195"
+  },
+  "5-10": {
+    "path": "assets/figures/fig-5-10.png",
+    "width": 1255,
+    "height": 948,
+    "sha256": "a12dd005b55487133cee5af0ef911c3060699cd0c83433cd6fc919675cb1627d"
+  },
+  "5-11": {
+    "path": "assets/figures/fig-5-11.png",
+    "width": 1255,
+    "height": 942,
+    "sha256": "fdae5cfa2452b5c8926f4f9ff51646e48805f5fb76e8cb9201c5708fa1c7e947"
+  },
+  "5-12": {
+    "path": "assets/figures/fig-5-12.png",
+    "width": 662,
+    "height": 1031,
+    "sha256": "3aaa77b8bc8abbbf644fea6b31ffdb1c7c49a390cb7dea7a3d0a0b3a852a4e83"
+  },
+  "5-13": {
+    "path": "assets/figures/fig-5-13.png",
+    "width": 721,
+    "height": 642,
+    "sha256": "933744f18e696319b40cda68029d1dedd5f3fce8c25ce85a46b3de3120895328"
+  },
+  "5-14": {
+    "path": "assets/figures/fig-5-14.png",
+    "width": 1208,
+    "height": 920,
+    "sha256": "75ff5fbb3914ae248f9c5a075b1a5c194a0603960ad441752d50b607a3088105"
+  },
+  "5-15": {
+    "path": "assets/figures/fig-5-15.png",
+    "width": 1203,
+    "height": 924,
+    "sha256": "537b9b12c20bc7a78128d73c11a12656881f164ba804570c66b2a591fe533831"
+  },
+  "5-16": {
+    "path": "assets/figures/fig-5-16.png",
+    "width": 1204,
+    "height": 922,
+    "sha256": "388ae4ee2dae23738ec548c225c3fb348b8ca8b989ae0899d2b82d9adf541dd9"
+  },
+  "5-17": {
+    "path": "assets/figures/fig-5-17.png",
+    "width": 1215,
+    "height": 923,
+    "sha256": "47dd54441be1074223baa5248e06e37be3317ecdce0ca330a25090581f309a1b"
+  },
+  "6-1": {
+    "path": "assets/figures/fig-6-1.png",
+    "width": 1289,
+    "height": 376,
+    "sha256": "04b48ae09108aba893bdb9df2d164649b35005ab01a9d51db48e6fec5d2c9f70"
+  },
+  "6-2": {
+    "path": "assets/figures/fig-6-2.png",
+    "width": 1300,
+    "height": 446,
+    "sha256": "b8ae502d95d95eac5a2d5278d2e80738cccf9bd327a6d5b74f3f63fd9572323e"
+  },
+  "6-3": {
+    "path": "assets/figures/fig-6-3.png",
+    "width": 1300,
+    "height": 446,
+    "sha256": "93e7106c0c3d5dc842896b715a25a103480732090239763a5eeb35907c3dc081"
+  },
+  "6-4": {
+    "path": "assets/figures/fig-6-4.png",
+    "width": 1303,
+    "height": 445,
+    "sha256": "5e4ac9da6250eb87edf0300a8ef3dda529bf9a54ced6e39ba802471ecec3bb28"
+  },
+  "6-5": {
+    "path": "assets/figures/fig-6-5.png",
+    "width": 1303,
+    "height": 442,
+    "sha256": "111b03244aa8c764a7ec710668fa8cbc12b6544d8772694f663373f38fcf40c6"
+  },
+  "6-6": {
+    "path": "assets/figures/fig-6-6.png",
+    "width": 1552,
+    "height": 1013,
+    "sha256": "395d02587d43df0cf23f22ba4fb21864fb7c2be5391faf9accc09490ab3a46d3"
+  },
+  "6-7": {
+    "path": "assets/figures/fig-6-7.png",
+    "width": 700,
+    "height": 1209,
+    "sha256": "de69c3da8764cce3254516b141defdfbf1ce0957babcb51ae7604716de204f97"
+  },
+  "6-8": {
+    "path": "assets/figures/fig-6-8.png",
+    "width": 1635,
+    "height": 962,
+    "sha256": "c4f6599b6dd69ea5dbda14a3eec59d4f9b64e77ad6b49342b50479a7a564cace"
+  },
+  "6-9": {
+    "path": "assets/figures/fig-6-9.png",
+    "width": 1639,
+    "height": 959,
+    "sha256": "e06942cd552e8ab64f3cfecac93256cf1e5672149c74fe2a86be7877e4f22e3d"
+  },
+  "6-10": {
+    "path": "assets/figures/fig-6-10.png",
+    "width": 1649,
+    "height": 954,
+    "sha256": "42577c4d49d65f1dcd0a1b2a113d932f70d0a10106fd770454f42f7d8ce2a177"
+  },
+  "6-11": {
+    "path": "assets/figures/fig-6-11.png",
+    "width": 1640,
+    "height": 959,
+    "sha256": "b81c17042459401878fd6aae4e935a0a38b083eeb7d3fc4663dddf8169cc8be9"
+  },
+  "6-12": {
+    "path": "assets/figures/fig-6-12.png",
+    "width": 1534,
+    "height": 1025,
+    "sha256": "fd10fc8e686c5c17f6d94d6c9c500b4eb94ac60c9ac414519df6ed70debe2e3b"
+  },
+  "6-13": {
+    "path": "assets/figures/fig-6-13.png",
+    "width": 1633,
+    "height": 963,
+    "sha256": "740c326660079b4969465d1c2ca00b52f786e6344b2a379278cb1ac99eb3cc1a"
+  },
+  "6-14": {
+    "path": "assets/figures/fig-6-14.png",
+    "width": 1639,
+    "height": 960,
+    "sha256": "dc679d359522195f88c876c1db3fd5dbf67c497d577f00b9f7d21cc2f6bc4d7d"
+  },
+  "6-15": {
+    "path": "assets/figures/fig-6-15.png",
+    "width": 1629,
+    "height": 966,
+    "sha256": "72a8123938a5fb3982564eda46c66ecdf216e25fe48422ca41cb631cde1e5f44"
+  },
+  "6-16": {
+    "path": "assets/figures/fig-6-16.png",
+    "width": 1498,
+    "height": 1050,
+    "sha256": "dcc33b37db6c6ee6fe1d0c7321635a15e125c3dd3c6e20fff56934338d169373"
+  },
+  "6-17": {
+    "path": "assets/figures/fig-6-17.png",
+    "width": 1633,
+    "height": 963,
+    "sha256": "c7c9f9485c76d6f92ffe2e1a90c24d504cdda86d6c5ec07dae5899eae143cd2d"
+  },
+  "6-18": {
+    "path": "assets/figures/fig-6-18.png",
+    "width": 1643,
+    "height": 957,
+    "sha256": "379c64681d22766499edfefbf4fd2e67068edc8d5a82acb1cf443aba61da81c8"
+  },
+  "7-1": {
+    "path": "assets/figures/fig-7-1.png",
+    "width": 1804,
+    "height": 872,
+    "sha256": "6fee3e4a845d19fd8d7de94f7d27ef409e36f0c21a0678652ee3309f044d980b"
+  },
+  "7-2": {
+    "path": "assets/figures/fig-7-2.png",
+    "width": 1672,
+    "height": 940,
+    "sha256": "1429617af54945c2853ad911b613b350e100b785579146b53dea671a7a48daeb"
+  },
+  "7-3": {
+    "path": "assets/figures/fig-7-3.png",
+    "width": 1436,
+    "height": 1095,
+    "sha256": "52962a46347ac5212e46b4b014c2d3c2638832dd4ddb1b867dc4003c27df9d03"
+  },
+  "7-4": {
+    "path": "assets/figures/fig-7-4.png",
+    "width": 1836,
+    "height": 856,
+    "sha256": "bac02421d9d918c185168490801d1332cc6c2ed0849df84a7b90cd81b14fca91"
+  },
+  "7-5": {
+    "path": "assets/figures/fig-7-5.png",
+    "width": 1289,
+    "height": 1220,
+    "sha256": "7b7ebad049682d98d5df4f35689ab26a22c42ea297aa1f012f8dcab53f73ee12"
+  },
+  "7-6": {
+    "path": "assets/figures/fig-7-6.png",
+    "width": 1254,
+    "height": 1254,
+    "sha256": "9360fe69a752d140fc47a350f09d23d24c47ceb61cb2738cb3bb83f7eb8dfbe2"
+  },
+  "7-7": {
+    "path": "assets/figures/fig-7-7.png",
+    "width": 1293,
+    "height": 1216,
+    "sha256": "c473bc65287c685aed35f640e6ef01382ec29efc4cf33edee6da5cb4959ab68a"
+  },
+  "7-8": {
+    "path": "assets/figures/fig-7-8.png",
+    "width": 1242,
+    "height": 1266,
+    "sha256": "b24d99b861ea7be0b1c14ba8a7fa72f644ae2182a9a79d7d9c06b27557d27adf"
+  },
+  "7-9": {
+    "path": "assets/figures/fig-7-9.png",
+    "width": 1474,
+    "height": 907,
+    "sha256": "3dcb42eb3293f3bfcce16b4919010e5ec49e807d5c27a0b588e63874533ba414"
+  },
+  "7-10": {
+    "path": "assets/figures/fig-7-10.png",
+    "width": 1490,
+    "height": 701,
+    "sha256": "153144e151254ae11bae1e6dbcfec68fefe7f240127faf627ea68828a7aa93df"
+  },
+  "7-11": {
+    "path": "assets/figures/fig-7-11.png",
+    "width": 1586,
+    "height": 992,
+    "sha256": "91fe3508599923eb828b005841b38aa0d969c3535f0ae616e6bb46715e1dd2f1"
+  },
+  "7-12": {
+    "path": "assets/figures/fig-7-12.png",
+    "width": 1660,
+    "height": 948,
+    "sha256": "b81e16fe94c67a7db9600f9140c24a5d92cb4449c278c3a2e7398744fbba6044"
+  },
+  "7-13": {
+    "path": "assets/figures/fig-7-13.png",
+    "width": 1829,
+    "height": 860,
+    "sha256": "5a4f45d2bd867e6084f989770a02f8c1656d3840c24c946ac236d4cc2ee4bd4c"
+  },
+  "7-14": {
+    "path": "assets/figures/fig-7-14.png",
+    "width": 729,
+    "height": 1500,
+    "sha256": "b8f9e8d3bc50daae840094bf420c7fb01cea9e3e13a420cfb7920bb7f7777f68"
+  },
+  "7-15": {
+    "path": "assets/figures/fig-7-15.png",
+    "width": 1632,
+    "height": 964,
+    "sha256": "ca7f52200369c332a8f19c10f78989c0f5596adb8fe41487d7e4686b4ac3d667"
+  },
+  "7-16": {
+    "path": "assets/figures/fig-7-16.png",
+    "width": 1756,
+    "height": 896,
+    "sha256": "eb17de921e47b986acdce7c1cc5912f40f0aed4303354b96827dff4a6fee1ab7"
+  },
+  "7-17": {
+    "path": "assets/figures/fig-7-17.png",
+    "width": 1496,
+    "height": 812,
+    "sha256": "ca1c372b9b30d2aaf63aea14d6e40064c7a9a3f2796f55d95ea019e9b24234c8"
+  },
+  "7-18": {
+    "path": "assets/figures/fig-7-18.png",
+    "width": 720,
+    "height": 863,
+    "sha256": "e9b922c9cc8aa0fa4d08202a2c815eaa7dcfb298ddc0830c3ec76a9a4e38f1e0"
+  },
+  "7-19": {
+    "path": "assets/figures/fig-7-19.png",
+    "width": 1670,
+    "height": 942,
+    "sha256": "edadd74c58e1cb84af0d31606bc960b6587c943393e2a6190363eb97af8f9a7a"
+  },
+  "7-20": {
+    "path": "assets/figures/fig-7-20.png",
+    "width": 722,
+    "height": 819,
+    "sha256": "568880499c5ff13b707406ceeeb8b0f5588b3a3949c1c234987b84f60d1c62bc"
+  },
+  "7-21": {
+    "path": "assets/figures/fig-7-21.png",
+    "width": 1547,
+    "height": 1016,
+    "sha256": "c7a5ddcc2b75cb2b38b025846a84c878145cd6ca0608f1e43539c24160471084"
+  },
+  "7-22": {
+    "path": "assets/figures/fig-7-22.png",
+    "width": 705,
+    "height": 657,
+    "sha256": "275c8decb16803d39cc6401358d698a3f381fc58f1644a673bfdabf281bc92d7"
+  },
+  "7-23": {
+    "path": "assets/figures/fig-7-23.png",
+    "width": 1754,
+    "height": 896,
+    "sha256": "dd26984dca952cfd9ae7d944948a0be88dab6092f5f5a5a7f8b7a9c85173125a"
+  },
+  "7-24": {
+    "path": "assets/figures/fig-7-24.png",
+    "width": 722,
+    "height": 588,
+    "sha256": "f42ff22991927fe8612632c0fcce4bfb68cc1ba1a041d3638285945c6ddbdce5"
+  },
+  "7-25": {
+    "path": "assets/figures/fig-7-25.png",
+    "width": 1507,
+    "height": 1044,
+    "sha256": "c0a388d4f71d71532316436c0565838b876ad3a330fcf2c9bc2fdc77161a8e65"
+  },
+  "7-26": {
+    "path": "assets/figures/fig-7-26.png",
+    "width": 1538,
+    "height": 1022,
+    "sha256": "ce778592663b92cb0bf0086059e62ff400d7439b00fec0d9faef2c52512f3c3d"
+  },
+  "7-27": {
+    "path": "assets/figures/fig-7-27.png",
+    "width": 1551,
+    "height": 1014,
+    "sha256": "8390f48acd794e7a8a5a5c3f9155bda20378e80edf11f7584d6bb9994d13ad70"
+  },
+  "7-28": {
+    "path": "assets/figures/fig-7-28.png",
+    "width": 1453,
+    "height": 1083,
+    "sha256": "4fac38ae2762ce3e1475a3fe1cbdcb372d08843ece68f268799c689c25870108"
+  },
+  "7-29": {
+    "path": "assets/figures/fig-7-29.png",
+    "width": 1591,
+    "height": 989,
+    "sha256": "65d248dd044b9604015f2bbfd8e8bf6a193302735b7064581285e8611968cbce"
+  },
+  "7-30": {
+    "path": "assets/figures/fig-7-30.png",
+    "width": 1543,
+    "height": 1019,
+    "sha256": "7dde271f4fcecebe9709ad95c9925c00f8337aa6b2511f12e6249600320ccd9a"
+  },
+  "7-31": {
+    "path": "assets/figures/fig-7-31.png",
+    "width": 1590,
+    "height": 989,
+    "sha256": "5fafae838accdeef396fc1320932eda91a47597f73bd15b70587edc71724414b"
+  },
+  "7-32": {
+    "path": "assets/figures/fig-7-32.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "9f0ee7f2681714e5123e62ca14921d85e4548dc242ca812e00a89dae95aad431"
+  },
+  "7-33": {
+    "path": "assets/figures/fig-7-33.png",
+    "width": 1528,
+    "height": 1029,
+    "sha256": "3e18a6bfa57115e6c956c1e9f1f5a22b244a6c004bab1444ff0b36d61006e324"
+  },
+  "7-34": {
+    "path": "assets/figures/fig-7-34.png",
+    "width": 1541,
+    "height": 1020,
+    "sha256": "ce17034d822ea45c69e154f85776c25b2fd9e05477596f67484b6da98e84b9b9"
+  },
+  "7-35": {
+    "path": "assets/figures/fig-7-35.png",
+    "width": 1527,
+    "height": 1030,
+    "sha256": "18fbc67480aa9b99683db1585b41164ca6542cfb03a119c6908b36ff6b4ed180"
+  },
+  "7-36": {
+    "path": "assets/figures/fig-7-36.png",
+    "width": 1540,
+    "height": 1021,
+    "sha256": "095310bfdc618ae1c7d1029d92385323bfdc8ead184bc63076e1c54a9f7e7018"
+  },
+  "7-37": {
+    "path": "assets/figures/fig-7-37.png",
+    "width": 1543,
+    "height": 1019,
+    "sha256": "42fde478f3b5731d9ac425562a311ebb1e15584c0986a2aa9cedd61e35436633"
+  },
+  "7-38": {
+    "path": "assets/figures/fig-7-38.png",
+    "width": 1544,
+    "height": 1018,
+    "sha256": "f0d2338ef79553768dd0a05605487af22af6c2bd425d643c78bb2618f0153a46"
+  },
+  "7-39": {
+    "path": "assets/figures/fig-7-39.png",
+    "width": 1434,
+    "height": 1097,
+    "sha256": "05f67527e80e04eb34a82eae664924ece2222f38dc7fc2c54fff41f19e748923"
+  },
+  "7-40": {
+    "path": "assets/figures/fig-7-40.png",
+    "width": 1526,
+    "height": 1030,
+    "sha256": "1b12350744fce2692433dfa66b3e96ff5c6652a67ae314d083251271424280cc"
+  },
+  "7-41": {
+    "path": "assets/figures/fig-7-41.png",
+    "width": 1535,
+    "height": 1025,
+    "sha256": "e77efe4f9fd6384b599dd82b23752e999b81b8585bd8d42f589b1f42e85ee446"
+  },
+  "8-1": {
+    "path": "assets/figures/fig-8-1.png",
+    "width": 1386,
+    "height": 897,
+    "sha256": "aecb3cc706022c89513e223ce5791537c431f3b827f16070b3c76490a00ecdfc"
+  },
+  "8-2": {
+    "path": "assets/figures/fig-8-2.png",
+    "width": 1379,
+    "height": 809,
+    "sha256": "41919214890f78e729b8862e51556b8fee60c7bf8b67745ec73194646bcb77eb"
+  },
+  "8-3": {
+    "path": "assets/figures/fig-8-3.png",
+    "width": 663,
+    "height": 1175,
+    "sha256": "bddb7c1384f022ce0c35336c0ba22854ebc9d5913188cd794e5ed7daea6d270b"
+  },
+  "8-4": {
+    "path": "assets/figures/fig-8-4.png",
+    "width": 1371,
+    "height": 890,
+    "sha256": "c077663a1f178730d3b93ab5d6ea0cf539756420adce4199216aa3b085172e62"
+  },
+  "8-5": {
+    "path": "assets/figures/fig-8-5.png",
+    "width": 1354,
+    "height": 851,
+    "sha256": "0b96fd734c4839a04aa64acfa7989a479585f1e4400f0967e5081de787aa9fbf"
+  },
+  "8-6": {
+    "path": "assets/figures/fig-8-6.png",
+    "width": 1271,
+    "height": 1001,
+    "sha256": "18698dfe2bac6f0f053bf4d9c2d3965f0744c4b807c99b32c216c020a3351826"
+  },
+  "8-7": {
+    "path": "assets/figures/fig-8-7.png",
+    "width": 1251,
+    "height": 946,
+    "sha256": "3f13fc7c98e89adf1238724f4001150938bf7bcf6fefab6918c1df551c0fcf58"
+  },
+  "8-8": {
+    "path": "assets/figures/fig-8-8.png",
+    "width": 1194,
+    "height": 895,
+    "sha256": "aa46d227b3bcc56eed4c6991d4be936bcb4f6360eeb12187e1fd02390a3f7a5f"
+  },
+  "8-9": {
+    "path": "assets/figures/fig-8-9.png",
+    "width": 1194,
+    "height": 939,
+    "sha256": "bf259fd2060aa2d19ec2cf03fb100ff286cd32d17e3d0592c454bb652c901c20"
+  },
+  "8-10": {
+    "path": "assets/figures/fig-8-10.png",
+    "width": 1253,
+    "height": 954,
+    "sha256": "1731c46df89bdab9e6c1399f4671af6fcc6729d581a9ec96c3d10acb11ff0c10"
+  },
+  "8-11": {
+    "path": "assets/figures/fig-8-11.png",
+    "width": 1252,
+    "height": 946,
+    "sha256": "07cb7811b66c1452dbbd20708d2970187179080dbf5703ef99f9104f399ef89a"
+  },
+  "8-12": {
+    "path": "assets/figures/fig-8-12.png",
+    "width": 1246,
+    "height": 951,
+    "sha256": "2f227bf6a86b429d24f938ce190b577a4549fc37c300fb7ad8e161f2fdf807ca"
+  },
+  "8-13": {
+    "path": "assets/figures/fig-8-13.png",
+    "width": 1246,
+    "height": 949,
+    "sha256": "66520fe5da6884724433d2783207819254e6cba70dcd5912924ea880049bf0ae"
+  },
+  "9-1": {
+    "path": "assets/figures/fig-9-1.png",
+    "width": 1721,
+    "height": 914,
+    "sha256": "d029fc87c68ddd08b05fd4373854fe3c95895bf6f89e09972eabf9a002399954"
+  },
+  "9-2": {
+    "path": "assets/figures/fig-9-2.png",
+    "width": 1651,
+    "height": 953,
+    "sha256": "4c2a89d6fa54208bbed099c8042ed0730b3a1ffd460571a55a0fe2589e4cd6b3"
+  },
+  "9-3": {
+    "path": "assets/figures/fig-9-3.png",
+    "width": 1466,
+    "height": 1073,
+    "sha256": "eeba45a6798b941ea2d94f9035fd3ddd77d01e19a68e0d8c35bfa899740c2f9a"
+  },
+  "9-4": {
+    "path": "assets/figures/fig-9-4.png",
+    "width": 1626,
+    "height": 967,
+    "sha256": "e43d8f9fcf62f6303cb882c3168a9457f22eb4bf46ae8ffd8db1955e54528238"
+  },
+  "9-5": {
+    "path": "assets/figures/fig-9-5.png",
+    "width": 1589,
+    "height": 990,
+    "sha256": "7e653f5e8e0b5ed13f4b7a5945dd4952d074332e381080ca5e2201b92fc516ce"
+  },
+  "9-6": {
+    "path": "assets/figures/fig-9-6.png",
+    "width": 854,
+    "height": 1840,
+    "sha256": "a77c19b069323f8788d5b22c9af4a9f7728717b6482720daa389594bd54ff58f"
+  },
+  "9-7": {
+    "path": "assets/figures/fig-9-7.png",
+    "width": 571,
+    "height": 898,
+    "sha256": "dd5667ba8ca8c6bb6bc68ec20c348493562c06d072fb744e96d2219fa84b1435"
+  },
+  "9-8": {
+    "path": "assets/figures/fig-9-8.png",
+    "width": 452,
+    "height": 819,
+    "sha256": "e839e4e8fa3bf078f35c7d3aa215e16e16308d61ef265ec8bef689e8661b328b"
+  },
+  "9-9": {
+    "path": "assets/figures/fig-9-9.png",
+    "width": 437,
+    "height": 802,
+    "sha256": "141f013e1fb930d69ef1603661420e34af98044259116578e9c6d573022cbc1b"
+  },
+  "9-10": {
+    "path": "assets/figures/fig-9-10.png",
+    "width": 533,
+    "height": 799,
+    "sha256": "c8186e2dc0d5fa81c9e53eecc026c00a67bf9b94f5d669c320ff8dd57b71cb91"
+  },
+  "9-11": {
+    "path": "assets/figures/fig-9-11.png",
+    "width": 663,
+    "height": 1237,
+    "sha256": "7d7f92b7720d39c5e0417aa5e4bbf8c5355f1ed40bc7ef75b82e785d6cdd13c9"
+  },
+  "9-12": {
+    "path": "assets/figures/fig-9-12.png",
+    "width": 702,
+    "height": 1254,
+    "sha256": "36a65e617134973124e68d6984657486d688169d2be68b2200cb9323e502d3f6"
+  },
+  "9-13": {
+    "path": "assets/figures/fig-9-13.png",
+    "width": 689,
+    "height": 1310,
+    "sha256": "e925a513ff317e9abfa7432e3e79cc9e1e53488ca7a12351aa20a99071dd3565"
+  },
+  "9-14": {
+    "path": "assets/figures/fig-9-14.png",
+    "width": 665,
+    "height": 1301,
+    "sha256": "cff7e5cb6f5a88ad0ef2b1c091169c482558f5c0f6d83eb928b4d665845dfe60"
+  },
+  "9-15": {
+    "path": "assets/figures/fig-9-15.png",
+    "width": 670,
+    "height": 1315,
+    "sha256": "ee02672147df0f75ee497241cda22b9cac2112b30801edafc42d3bc22155bc59"
+  },
+  "10-1": {
+    "path": "assets/figures/fig-10-1.png",
+    "width": 1560,
+    "height": 1008,
+    "sha256": "3928b78bc8df2b53ccbc1dc8a9cabbd13be4f8e56cd35b82475204e8fde5eec7"
+  },
+  "10-2": {
+    "path": "assets/figures/fig-10-2.png",
+    "width": 1585,
+    "height": 992,
+    "sha256": "112fd436824eb7f950d06604eac86057c081509a1595ce8c5ac2ab38824e364d"
+  },
+  "10-3": {
+    "path": "assets/figures/fig-10-3.png",
+    "width": 1848,
+    "height": 851,
+    "sha256": "a379d5b5c7d87a80af8c0b2814bd7fc2edd4be4fb46d06f0e753bfba58e1d51b"
+  },
+  "10-4": {
+    "path": "assets/figures/fig-10-4.png",
+    "width": 1758,
+    "height": 895,
+    "sha256": "42761b03b6b4c58e04749d7ce9799618f478def3928cc2ccce589cbeb770cd3a"
+  },
+  "10-5": {
+    "path": "assets/figures/fig-10-5.png",
+    "width": 1875,
+    "height": 839,
+    "sha256": "6a3a465ff123514f08ce55a79ca4a2c18aa22ac77d30b9b7ea4e8c641b0baf27"
+  },
+  "10-6": {
+    "path": "assets/figures/fig-10-6.png",
+    "width": 1518,
+    "height": 1036,
+    "sha256": "3d92d2ecb0e433978eab5bf18896ae71a842157027abee7b595b863616c75a89"
+  },
+  "10-7": {
+    "path": "assets/figures/fig-10-7.png",
+    "width": 1526,
+    "height": 1030,
+    "sha256": "dc796f75b2959cd8cb2ebc288d0592e8c867569eb2369ada44b16155248f50fe"
+  },
+  "10-8": {
+    "path": "assets/figures/fig-10-8.png",
+    "width": 1525,
+    "height": 1031,
+    "sha256": "9bdb74ddd9bc9c6f0333f56b0a5704e412c96f16168a40db735a70a21b8fd9d8"
+  },
+  "11-1": {
+    "path": "assets/figures/fig-11-1.png",
+    "width": 707,
+    "height": 925,
+    "sha256": "eae5ec246ba6722d8d8bf9700209f3689ac505c6d00f32c0777753269fea2636"
+  },
+  "11-2": {
+    "path": "assets/figures/fig-11-2.png",
+    "width": 684,
+    "height": 1047,
+    "sha256": "33e09be0e5fd93821abc0ec8f74fd2c15e3eb4a90f53aa8fd3d7f88d77ee74e9"
+  },
+  "11-3": {
+    "path": "assets/figures/fig-11-3.png",
+    "width": 1578,
+    "height": 997,
+    "sha256": "ad511191dda15a38cee02fcc94fda470f99c819218f1042b39d2974eab275b40"
+  },
+  "11-4": {
+    "path": "assets/figures/fig-11-4.png",
+    "width": 1550,
+    "height": 1015,
+    "sha256": "65c4866666180ad03978c9ea5a7d81d3b4fa4c9cf8687ef9243cfdecaf713b40"
+  },
+  "11-5": {
+    "path": "assets/figures/fig-11-5.png",
+    "width": 1642,
+    "height": 958,
+    "sha256": "e7d467842a2d2bb3dcbcd338c073dfdae5e7aa07b1830f91b5bfad9283feb8e8"
+  },
+  "11-6": {
+    "path": "assets/figures/fig-11-6.png",
+    "width": 1567,
+    "height": 1004,
+    "sha256": "e212db75237abbb2c7b0fd49fdc111273c3103b6fa6123a2eda5b23a033ce50e"
+  },
+  "11-7": {
+    "path": "assets/figures/fig-11-7.png",
+    "width": 956,
+    "height": 1645,
+    "sha256": "38fa8ad8b1a112ebd7925670af154ef4c7bb55b230dfaf667f7f2367f3857aab"
+  },
+  "11-8": {
+    "path": "assets/figures/fig-11-8.png",
+    "width": 1514,
+    "height": 1039,
+    "sha256": "dd6e3b953b9af7ea1a4b4b1307a6d71d750d450a62778dcd7094773318d43600"
+  },
+  "11-9": {
+    "path": "assets/figures/fig-11-9.png",
+    "width": 1502,
+    "height": 1047,
+    "sha256": "d7fea2991302d069f66108b1546c1e1593bb2ea30981fda89a0b97e94af8b9e7"
+  },
+  "11-10": {
+    "path": "assets/figures/fig-11-10.png",
+    "width": 1044,
+    "height": 1507,
+    "sha256": "a863c46655413db66c7a8acd8812777774eaa13e034b79b9d6ee69705d974ffb"
+  },
+  "11-11": {
+    "path": "assets/figures/fig-11-11.png",
+    "width": 1511,
+    "height": 1041,
+    "sha256": "e2124a782af8d09a7729ae71b62ee630ef919d9fac6b138d762097021ebf1b49"
+  },
+  "12-1": {
+    "path": "assets/figures/fig-12-1.png",
+    "width": 2115,
+    "height": 743,
+    "sha256": "a2b92220de6941294fe90e83dc4027c14d925f315d924e9ce347cbcdbbb8f566"
+  },
+  "12-2": {
+    "path": "assets/figures/fig-12-2.png",
+    "width": 1520,
+    "height": 1035,
+    "sha256": "5b1f793597dd74947cdc6149047067c7536212650681b9ccbe2f9822e599117d"
+  },
+  "12-3": {
+    "path": "assets/figures/fig-12-3.png",
+    "width": 1718,
+    "height": 915,
+    "sha256": "7e152a610034e853f9f3d12e47274f02bc6e2ea67df11d87523016defd6c4aee"
+  },
+  "12-4": {
+    "path": "assets/figures/fig-12-4.png",
+    "width": 1532,
+    "height": 1026,
+    "sha256": "c4d35396e6d3bc953b65cb5091966b6a4e48272f6716987a98fbac0b94cf349c"
+  },
+  "12-5": {
+    "path": "assets/figures/fig-12-5.png",
+    "width": 1867,
+    "height": 842,
+    "sha256": "a81675d960cd6238aed43e5c98d32893d2beee6e55494ca5bf7fe043ced91ce5"
+  },
+  "12-6": {
+    "path": "assets/figures/fig-12-6.png",
+    "width": 722,
+    "height": 843,
+    "sha256": "13838a689d0fcbdc0d590308618570777ad1881e1bb7952c922371967183f9ae"
+  },
+  "12-7": {
+    "path": "assets/figures/fig-12-7.png",
+    "width": 1451,
+    "height": 984,
+    "sha256": "0219500e62c90bd5ec2ee65173735d71ba05b96b027eb947a6e41188d04b8621"
+  },
+  "12-8": {
+    "path": "assets/figures/fig-12-8.png",
+    "width": 2163,
+    "height": 727,
+    "sha256": "03f6e590d3879e7f2cb5875d056dce2a932fc4fbbc3b74f47f65db4cccfd764e"
+  },
+  "13-1": {
+    "path": "assets/figures/fig-13-1.png",
+    "width": 716,
+    "height": 772,
+    "sha256": "8df7a6c5217da1a45f38ae1c45e605197b715074ddb09c5e4daf7984e21b9c2c"
+  },
+  "13-2": {
+    "path": "assets/figures/fig-13-2.png",
+    "width": 709,
+    "height": 1003,
+    "sha256": "083ad290ac9e09a417b8776b70af5eb20be32d1bbb1861b443d0e1f9298428f9"
+  },
+  "13-3": {
+    "path": "assets/figures/fig-13-3.png",
+    "width": 648,
+    "height": 666,
+    "sha256": "78d7f83fecac4899e68a16979be76f999bd7bfbc8dc50a83c1f053b7c402e2d9"
+  },
+  "13-4": {
+    "path": "assets/figures/fig-13-4.png",
+    "width": 709,
+    "height": 639,
+    "sha256": "a4bc9b7f9b2a0784d6e9b18cdad6d9be0ff1c7f6100b8f4a25e2bc625029ac38"
+  },
+  "13-5": {
+    "path": "assets/figures/fig-13-5.png",
+    "width": 695,
+    "height": 605,
+    "sha256": "ab0b1a9e5ae2dc2eb6b48ec0de9e1feccffe4792bc22d92624429f319095297e"
+  },
+  "14-1": {
+    "path": "assets/figures/fig-14-1.png",
+    "width": 694,
+    "height": 1497,
+    "sha256": "a412acbf4b1a7a986409152e588c9c04d1e2e660eab0529b5f67437e015102f7"
+  },
+  "14-2": {
+    "path": "assets/figures/fig-14-2.png",
+    "width": 718,
+    "height": 1023,
+    "sha256": "e735d12fd17c4db41fa1f86e913c40c122fced20195c353bfde95346a805f2fa"
+  },
+  "14-3": {
+    "path": "assets/figures/fig-14-3.png",
+    "width": 1494,
+    "height": 504,
+    "sha256": "052819f66202dba11313f72336782e858f7b7d2c6713faff55e8c906d83f29d8"
+  },
+  "14-4": {
+    "path": "assets/figures/fig-14-4.png",
+    "width": 686,
+    "height": 1023,
+    "sha256": "f2d732ad246ba427ad9f5cf4f6d1a8d5107bc89d3a705d3817f5a40870efaf41"
+  },
+  "14-5": {
+    "path": "assets/figures/fig-14-5.png",
+    "width": 1499,
+    "height": 551,
+    "sha256": "e649a53dbb1ab22951bc0f683e7d671ec72d9239b388f9871baef089199886c6"
+  },
+  "14-6": {
+    "path": "assets/figures/fig-14-6.png",
+    "width": 667,
+    "height": 445,
+    "sha256": "c1ff520596e7fa636f0bd7e3b01c69b11d01cee824efc0f39f6be6f44fe49c72"
+  },
+  "14-7": {
+    "path": "assets/figures/fig-14-7.png",
+    "width": 667,
+    "height": 448,
+    "sha256": "0a336a0a1eace34410cf732dc7f8c125e8aa55b57c0305f123f796e823fa33fd"
+  },
+  "14-8": {
+    "path": "assets/figures/fig-14-8.png",
+    "width": 688,
+    "height": 517,
+    "sha256": "6c86c852092afee1af15a558c79b6bc2db348765a3e456cfce33afb9901af1f0"
+  },
+  "14-9": {
+    "path": "assets/figures/fig-14-9.png",
+    "width": 688,
+    "height": 522,
+    "sha256": "69008fbe7d0b1eb951f3d9ee8e7331bd1dfb7df2dc5a5b157be195838030fec7"
+  },
+  "14-10": {
+    "path": "assets/figures/fig-14-10.png",
+    "width": 677,
+    "height": 755,
+    "sha256": "af7acc9601a0d4ced12d1af902dfdfe870fd436537689cb8ac6ef6c1961f5e63"
+  },
+  "14-11": {
+    "path": "assets/figures/fig-14-11.png",
+    "width": 1444,
+    "height": 546,
+    "sha256": "d52310301d8b3d8f93c169fbd80f86fea8c3e506b84095e8882bc2d084c801ca"
+  },
+  "14-12": {
+    "path": "assets/figures/fig-14-12.png",
+    "width": 531,
+    "height": 664,
+    "sha256": "4fa585170fb9f4ce508268849cf59ddbcf256853d16bc7d57edae9e48a485ae8"
+  },
+  "14-13": {
+    "path": "assets/figures/fig-14-13.png",
+    "width": 693,
+    "height": 458,
+    "sha256": "9016b1b5b2ad5155415d7ba7195e2da3611247cb5ca2c8c2a5a402992ec91331"
+  },
+  "14-14": {
+    "path": "assets/figures/fig-14-14.png",
+    "width": 1458,
+    "height": 654,
+    "sha256": "1722a38895ea731c594550666b1dccff52a49aad2b0b9e6c0a583df271de11f6"
+  },
+  "14-15": {
+    "path": "assets/figures/fig-14-15.png",
+    "width": 693,
+    "height": 347,
+    "sha256": "8658d69bd35c994918ef2f34429f66a9ad731c47496d6b3dab8b9fdd50d00f41"
+  },
+  "14-16": {
+    "path": "assets/figures/fig-14-16.png",
+    "width": 1460,
+    "height": 666,
+    "sha256": "957e0c58d91f32c01d26133cddf7b24ede442325a1e77253028910d72e900e40"
+  },
+  "14-17": {
+    "path": "assets/figures/fig-14-17.png",
+    "width": 1386,
+    "height": 730,
+    "sha256": "601f37f8511065a811c8d098a2a9b8470310b5e9db083568941bddb1b51b0973"
+  },
+  "15-1": {
+    "path": "assets/figures/fig-15-1.png",
+    "width": 1487,
+    "height": 760,
+    "sha256": "48998851770e3e29617e975bb153464176048c64cac939ef35d8702f8cd670e3"
+  },
+  "15-2": {
+    "path": "assets/figures/fig-15-2.png",
+    "width": 1188,
+    "height": 1223,
+    "sha256": "9b8375de1758730f867cdae88962e0f73a7e061eff9aa69d2a50ed4d562695f8"
+  },
+  "15-3": {
+    "path": "assets/figures/fig-15-3.png",
+    "width": 1581,
+    "height": 995,
+    "sha256": "d1a0b41c0f14a465d7775128223b4f20cec1c570e7e39248d4fbdc49ace0864c"
+  },
+  "15-4": {
+    "path": "assets/figures/fig-15-4.png",
+    "width": 1699,
+    "height": 926,
+    "sha256": "70197b57de40a391734fad9effebc054bd0b571728d25d514424de676222f9a6"
+  },
+  "15-5": {
+    "path": "assets/figures/fig-15-5.png",
+    "width": 1202,
+    "height": 1308,
+    "sha256": "f9f62a2340b8020de7f29b73d5633a31bc539ce0711edf4c99d460abe4b871b1"
+  },
+  "15-6": {
+    "path": "assets/figures/fig-15-6.png",
+    "width": 1730,
+    "height": 909,
+    "sha256": "342b2c276bd8e382d351efc22a52bd2361a0b6a13b876916e5cca6226eff643b"
+  },
+  "15-7": {
+    "path": "assets/figures/fig-15-7.png",
+    "width": 1463,
+    "height": 1075,
+    "sha256": "b421073f0f1da0f13cb1e71d5f16e1d20477091dde099b716aea8e6eb7ec1206"
+  },
+  "15-8": {
+    "path": "assets/figures/fig-15-8.png",
+    "width": 1576,
+    "height": 998,
+    "sha256": "da33ae6d142a6a26e4cbba240ff0ac5f7b7abfb7ef00e7aecaae3ed10e1a0c14"
+  },
+  "15-9": {
+    "path": "assets/figures/fig-15-9.png",
+    "width": 901,
+    "height": 1744,
+    "sha256": "cbd72cd8803ad81b38f2a20aa35189d0892b08dd5a75db11954de2818abf1131"
+  },
+  "15-10": {
+    "path": "assets/figures/fig-15-10.png",
+    "width": 1649,
+    "height": 954,
+    "sha256": "42aa96f3c1ed016f3c43df057d1d28ea7286a1502f80faa7aba961efd0423222"
+  },
+  "15-11": {
+    "path": "assets/figures/fig-15-11.png",
+    "width": 1548,
+    "height": 1016,
+    "sha256": "60b50a5aca50623a2fb53de9d819a2e75eaa5f6f44d65809a32bad0560fd0f13"
+  },
+  "15-12": {
+    "path": "assets/figures/fig-15-12.png",
+    "width": 1537,
+    "height": 1023,
+    "sha256": "720426b82429f3239e00296131dc62c2c1492bfe4f679de0918235ac633d3956"
+  },
+  "15-13": {
+    "path": "assets/figures/fig-15-13.png",
+    "width": 1667,
+    "height": 944,
+    "sha256": "599850272ddab7f9210c16f1ea8520bcdcd0133bb23d637ad2c9c36fa069b927"
+  },
+  "15-14": {
+    "path": "assets/figures/fig-15-14.png",
+    "width": 1844,
+    "height": 853,
+    "sha256": "710b936cb1bbfa2fa027d17a513ce82027c4863331c5a246f8e15971837af9c8"
+  },
+  "15-15": {
+    "path": "assets/figures/fig-15-15.png",
+    "width": 1780,
+    "height": 884,
+    "sha256": "fe254a84a953967a23a479d2d525821a016cde776f2abdd323ac1063d14dfe34"
+  },
+  "15-16": {
+    "path": "assets/figures/fig-15-16.png",
+    "width": 1651,
+    "height": 953,
+    "sha256": "2590cb1579ef9edd407ab045fb816d9cdd02d4cdaed82ad8ce77e765ab7d5c59"
+  },
+  "15-17": {
+    "path": "assets/figures/fig-15-17.png",
+    "width": 1474,
+    "height": 1067,
+    "sha256": "0e02f0616a5947568bef406ade0f44a655471ffb2d12ad6474c50aca3dd3b815"
+  },
+  "15-18": {
+    "path": "assets/figures/fig-15-18.png",
+    "width": 1534,
+    "height": 1025,
+    "sha256": "5545bd8c9353ac7aed2ab419d5efe1b4f89d328bc21b1f239a8202b1f7eb9b48"
+  },
+  "15-19": {
+    "path": "assets/figures/fig-15-19.png",
+    "width": 1580,
+    "height": 996,
+    "sha256": "88c3e54cdba374c6988a86afcd9155aca1d69f49a22477471cb8de625ee9cccc"
+  },
+  "15-20": {
+    "path": "assets/figures/fig-15-20.png",
+    "width": 1483,
+    "height": 1061,
+    "sha256": "1f18a8a668cc60d39353977abb104c9cb493102aaf875e6a3d6307534b3aea0e"
+  },
+  "15-21": {
+    "path": "assets/figures/fig-15-21.png",
+    "width": 1595,
+    "height": 986,
+    "sha256": "78141aba2954e4520bf4769d6b5bf99ffbd80ae9e52b60a5077cee1779e5b942"
+  },
+  "15-22": {
+    "path": "assets/figures/fig-15-22.png",
+    "width": 1419,
+    "height": 1108,
+    "sha256": "67a77101c606aed6a8963aa46d91a8546f3aeed022a55e0ef5c592170b6f2782"
+  },
+  "16-1": {
+    "path": "assets/figures/fig-16-1.png",
+    "width": 1738,
+    "height": 905,
+    "sha256": "52f1533ca12d5ee8a8a23e8c3ac5d4b5de363c993cde5d194e04984e96b2f933"
+  },
+  "p295-photo-1": {
+    "path": "assets/figures/fig-p295-photo-1.png",
+    "width": 1372,
+    "height": 1147,
+    "sha256": "b7fc9674346641edf95595103d82af3440e2475a2f9cbb784b60ed1305657e28"
+  }
+}

@@ -1,0 +1,50 @@
+# Local working files, scans, OCR, reviews, backups and browser captures
+/work/
+/output/
+/.playwright-cli/
+/.baoyu-skills/
+/CONTEXT.md
+/DECISIONS.md
+/DESIGN.md
+/QA.md
+/COLOR-REVIEW.md
+
+# Generated previews and large portable edition (rebuild locally)
+/*-全书中文阅读版.html
+/book-preview.html
+/color-review.html
+/font-comparison.html
+/samples.html
+
+# Only the publication data belongs to this repository
+/content/*
+!/content/book.json
+!/content/figures.json
+
+# Keep only images used by the reader and the selected font with its license
+/assets/*
+!/assets/figures/
+!/assets/reader-fonts/
+
+# Keep the reader's build/runtime scripts; exclude one-off production tools
+/scripts/*
+!/scripts/build.py
+!/scripts/build-book.py
+!/scripts/validate-book.py
+!/scripts/book-reader.html
+!/scripts/book-reader.css
+!/scripts/book-reader.js
+!/scripts/reader.css
+!/scripts/reading-demos.js
+!/scripts/exit_demo.html
+!/scripts/grip_demo.html
+!/scripts/brake_demo.html
+
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.log

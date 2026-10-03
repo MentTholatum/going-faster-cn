@@ -1,0 +1,64 @@
+name: Publish reader to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: vars.ENABLE_GITHUB_PAGES == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out source
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Build reader
+        run: python scripts/build.py
+      - name: Validate reader and portable edition
+        run: python scripts/validate-book.py --release
+      - name: Prepare website files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil
+          site = Path('output/site')
+          site.mkdir(parents=True, exist_ok=True)
+          shutil.copy2('index.html', site / 'index.html')
+          for directory in ('figures', 'reader-fonts'):
+              shutil.copytree(Path('assets') / directory, site / 'assets' / directory)
+          (site / '.nojekyll').touch()
+          PY
+      - name: Upload website
+        uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+        with:
+          path: output/site
+          retention-days: 1
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4

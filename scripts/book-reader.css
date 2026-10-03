@@ -1,0 +1,32 @@
+/* Navigation and typography for the full-book reader. */
+@font-face{font-family:MiSansReader;src:url('assets/reader-fonts/MiSans-Regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:MiSansReader;src:url('assets/reader-fonts/MiSans-Semibold.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}
+:root{--reader-size:20px;--reading-font:MiSansReader,"PingFang SC","Microsoft YaHei",sans-serif}
+.book-chapter .translation{font:400 var(--reader-size)/1.6 var(--reading-font);letter-spacing:0}
+.book-chapter .translation p{margin-bottom:1em}
+.book-chapter .translation h2,.book-chapter .translation h3,.book-chapter .translation h4{font-family:var(--reading-font);font-weight:600;line-height:1.4;letter-spacing:0}
+.book-chapter .source-callout{font-family:var(--reading-font);font-weight:600}
+.book-chapter .figure-notes{font-family:var(--reading-font)}
+.book-chapter .figure-note figcaption{font-family:var(--reading-font);font-size:max(14px,calc(var(--reader-size)*.85));line-height:1.6}
+.book-chapter .figure-note figcaption p{margin:0}
+.book-chapter blockquote p:last-of-type{margin-bottom:10px}
+.book-chapter .editor-note p{margin:8px 0 0}
+.font-license{max-width:780px;margin:12px auto 0}.font-license summary{cursor:pointer}.font-license pre{font:12px/1.7 var(--sans);white-space:pre-wrap;overflow-wrap:anywhere;max-height:320px;overflow:auto;padding:16px;background:var(--edge)}
+[hidden]{display:none!important}
+.rail nav{margin-top:22px}.rail nav a{padding:9px 9px 9px 14px;font-size:12px}.nav-group{margin:20px 0 7px;font-size:11px;font-weight:600;letter-spacing:.1em;color:var(--muted)}
+.book-home{color:inherit;text-decoration:none}.book-home:hover{opacity:.8}
+.book-chapter>.hero{display:block;min-height:0;padding:38px 40px 12px;margin-bottom:24px}
+.book-chapter .hero h1{font-size:clamp(30px,3.1vw,46px);white-space:normal;line-height:1.4;letter-spacing:-.025em}
+.book-chapter .english-title{font-size:22px;letter-spacing:0;line-height:1.4}.book-chapter .chapter-label{margin-bottom:20px}
+.book-chapter .hero-meta{margin-top:20px}.book-chapter .hero-copy{padding-bottom:22px}
+.book-chapter{scroll-margin-top:90px}.book-intro{font-size:13px;line-height:1.9;color:var(--muted);margin:0 auto 24px;max-width:780px}
+.chapter-outline{max-width:780px;margin:20px auto 35px;padding:16px 0;border-bottom:1px solid var(--line);font-size:14px;line-height:1.9}
+.chapter-outline summary{cursor:pointer;color:var(--teal)}.chapter-outline ul{columns:2;column-gap:35px;padding-left:1.4em}.chapter-outline li{break-inside:avoid;margin:8px 0}.chapter-outline a{text-decoration:none}.chapter-outline a:hover{text-decoration:underline}
+.book-chapter .page-section{padding:10px 0 14px}.book-chapter .translation h2{font-size:1.4em}.book-chapter .translation h3{font-size:1.2em}.book-chapter .translation h4{font-size:1.05em}
+.source-page-anchor{display:block;position:relative;top:-100px;visibility:hidden}
+.figure-image-button img{width:auto;margin:0 auto;max-width:100%;max-height:820px}.figure-note.portrait{max-width:310px;margin:24px auto 30px}.figure-note figcaption{font-family:var(--sans);font-size:14px;line-height:1.85}.figure-note figcaption .figure-number{color:var(--teal);font-weight:600;margin-right:7px;white-space:nowrap}.figure-note figcaption p{margin:0}.figure-link{text-decoration:none;text-underline-offset:3px}.figure-link:hover{text-decoration:underline}
+.chapter-turn{display:flex;justify-content:space-between;gap:25px;border-top:1px solid var(--line);padding:30px 0 45px;margin:35px auto 0;max-width:780px}.chapter-turn a{max-width:48%;font-size:14px;line-height:1.8;text-decoration:none}.chapter-turn a:last-child{text-align:right;margin-left:auto}.chapter-turn small{display:block;color:var(--muted);font-size:12px}
+.book-footer{margin-top:30px}.book-footer p{margin-left:auto;margin-right:auto}.search-trigger{font-size:13px}.search-dialog{width:min(760px,94vw);max-height:86vh;border:1px solid var(--line);border-radius:12px;padding:24px;color:var(--ink)}.search-dialog::backdrop{background:#182b3acc}.search-top{display:flex;justify-content:space-between;gap:15px;align-items:center}.search-top h2{font-size:23px;margin:0}.search-label{display:block;font-size:13px;margin:22px 0 9px}.search-input{width:100%;padding:13px 15px;border:1px solid var(--line);border-radius:6px;background:white;color:var(--ink)}.search-summary{font-size:12px;color:var(--muted)}.search-results{padding:0;list-style:none;max-height:52vh;overflow:auto}.search-results li{padding:14px 0;border-bottom:1px solid var(--line)}.search-results a{display:block;text-decoration:none;font-size:14px;line-height:1.7}.search-results small{display:block;color:var(--muted);margin-bottom:5px}.search-results mark{background:#ffdeb9;color:var(--ink)}
+@media(max-width:760px){.rail nav{display:block}.rail nav a{padding:10px 12px}.nav-group{margin-top:15px}.book-chapter>.hero{padding:25px 23px 8px}.book-chapter .hero h1{font-size:31px}.book-chapter .english-title{font-size:19px}.toolbar-controls{gap:8px}.toolbar .text-button{padding:6px 9px;font-size:12px}.book-chapter .translation h2{font-size:1.4em}.chapter-outline ul{columns:1}.chapter-turn{gap:18px}.chapter-turn a{font-size:13px}.search-dialog{padding:18px}.book-chapter .chapter-label{font-size:12px}}
+@media(max-width:390px){#font-value{display:none}.toolbar-controls{gap:4px}.font-control{gap:3px}.toolbar .text-button{padding:5px 7px}.font-control button{min-width:29px;padding:5px}.book-chapter .hero h1{font-size:28px}}
+@media print{.book-chapter[hidden]{display:block!important}.search-trigger,.chapter-turn,.chapter-outline{display:none!important}.book-chapter>.hero{background:white;color:var(--ink);padding:25px 0}.book-chapter .hero p{color:var(--muted)}.book-chapter{break-before:page}.figure-note{break-inside:avoid}.book-chapter .page-section{break-before:auto}}
